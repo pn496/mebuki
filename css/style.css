@@ -313,9 +313,9 @@ p {
   font-size: 15px;
 }
 
-.three_img p {
-  font-size: 16px;
-  margin-top: 4rem;
+.three_img h4 {
+  font-size: 20px;
+  margin: 2rem 0;
   text-align: center;
 }
 
@@ -370,7 +370,7 @@ h3 {
   font-size: 18px;
   position: relative;
   padding-left: 25px;
-  margin-top: 5rem;
+  margin-top: 1rem;
 }
 
 h3:before {
@@ -462,7 +462,7 @@ header {
   position: relative;
   overflow: hidden;
   padding: 0;
-  height: 60px;
+  height: 83px;
 }
 
 @media (min-width: 1030px) {
@@ -840,7 +840,7 @@ section.indent p {
 
 #main-visual {
   /* ※011 - スマホから見た場合のメインビジュアル画像の高さ（デフォルトは画面いっぱい）↓ */
-  height: calc(100vh - 60px);
+  height: calc(43vh - 55px);
   position: relative;
 }
 
