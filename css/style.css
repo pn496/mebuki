@@ -670,8 +670,8 @@ nav#globalnav ul#navmenu.checked li {
 
 nav#globalnav ul#navmenu.checked li a {
   opacity: 1;
-  height: 30px;
-  line-height: 30px;
+  height: 50px;
+  line-height: 50px;
   -webkit-transition: 0.5s;
   transition: 0.5s;
 }
