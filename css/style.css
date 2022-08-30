@@ -806,11 +806,12 @@ section.indent p {
 #main-visual p {
   font-size: 12px;
   position: absolute;
-  color: aqua;
-  text-shadow: 3px 3px 3px rgb(211, 211, 211);
+  color: rgb(0, 0, 0);
+  background-color: #ffffff57;
+  text-shadow: 2px 2px 2px rgb(255, 255, 255);
   z-index: 1;
-  left: 3rem;
-  bottom: 3rem;
+  left: 2rem;
+  bottom: 1rem;
 }
 
 #main-visual h2 {
@@ -826,6 +827,7 @@ section.indent p {
     font-size: 30px;
     left: 8rem;
     bottom: 10rem;
+    padding: 1rem;
   }
 
 }
