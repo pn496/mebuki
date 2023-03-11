@@ -167,7 +167,7 @@ body {
 }
 
 #about img {
-  width: 100%;
+  width: 50%;
 }
 
 /* --------------------------------
@@ -429,6 +429,10 @@ body {
 @media (max-width: 768px) {
   body {
     font-size: 1.3rem;
+  }
+
+  #about img {
+    width: 100%;
   }
 
   .heading {
